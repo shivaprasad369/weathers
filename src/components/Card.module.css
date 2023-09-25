@@ -1,0 +1,15 @@
+.content{
+    background-color: lightblue;
+   text-align: center;
+}
+.content .box{
+    text-align: center;
+    border:1px rgb(136, 10, 73);
+    border-width: 40%;
+    width:60%;
+    margin-right: 20%;
+    padding: 30px;
+    border-radius: 30% 30%;
+    float: left;
+}
+
